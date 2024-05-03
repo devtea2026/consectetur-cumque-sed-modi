@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/consectetur-cumque-sed-modi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -454,5 +454,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/consectetur-cumque-sed-modi/issues"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.2.1"
 }
